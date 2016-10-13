@@ -1,0 +1,85 @@
+
+*{padding: 0; margin: 0; margin: 0 auto;} *
+a {text-decoration: none;}
+#wrapper {width: 100%; min-width: 1270px; max-width: 100%; height: 100%; max-height: 100%; min-height: 100%;}
+.inner {width:auto; min-width: 1170px; max-width: 1270px; margin:0 auto; font-family: Roboto; font-size: 11px; }
+.clear {clear: both; }
+/*margin-right: 415px;*/
+
+/*Топ*/
+header #top .logo img{display: inline-block; padding: 34px 0px 0px 0px; } 
+header #top .logo {display: inline-block;}
+header #top {background: #2d2d30; height: 100px;}
+header #top nav {margin-left: 415px; margin-top: -23px; }
+header #top nav ul {display: inline-block;}
+header #top nav ul li {display: inline-block; text-transform: uppercase;	font-size: 10px; font-family: Tahoma; color: #d5d5d5; margin-top: -10px; margin-left: 70px;}
+header #top nav ul li a:hover {color: red;}
+header #top nav ul li a {color: #d5d5d5;}
+
+/*Секция*/
+section {background: url(../images/section.png) bottom right; height: 650px; background-size: cover; }
+section p {text-align: center; padding: 240px 0px 40px 0px; font-family: Lato; font-size: 40px; color: #fff; text-transform: uppercase;}
+section span {text-align: center; display: block; margin-bottom: 37px; font-family: Myriad Pro; font-size: 24px; color: #fff;  }
+section a {text-align: center; display: block; font-family: Myriad Pro; font-size: 12px; color: #fff;  text-transform: uppercase; border: 1px solid #ffffff; width: 157px; padding: 15px; font-weight: bold;}
+section div a:hover {background: blue; }
+
+#block1 {background: #f7f7f7; height: 492px;}
+#block1 .Our p {font-size: 16px; font-family: Tahoma; color: #454545; text-transform: uppercase; text-align: center; padding: 90px 0px 15px 0px}
+#block1 .Our span {display: block; font-size: 20px; font-family: Tahoma; color: #878787; text-align: center;}
+#block1 .block-text1 {float: left; width: 25%;}
+#block1 .block-text1 p {font-weight: bold;	color: #454545; font-size: 14px; font-family: Myriad Pro; padding: 0px 53px 20px 94px}
+#block1 .block-text1 img {padding: 50px 0px 61px 103px}
+#block1 .block-text1 span {font-size: 14px; color: #8a8a8a; font-family: Myriad Pro;}
+#block1 .block-text2 p {font-weight: bold;	color: #454545; font-size: 14px; font-family: Myriad Pro; padding: 0px 53px 20px 94px}
+#block1 .block-text2 span {font-size: 14px; color: #8a8a8a; font-family: Myriad Pro;}
+#block1 .block-text2 {float: left; width: 25%; }
+#block1 .block-text2 img {padding: 50px 0px 61px 110px}
+#block1 .block-text3 p {font-weight: bold;	color: #454545; font-size: 14px; font-family: Myriad Pro; padding: 0px 53px 20px 94px}
+#block1 .block-text3 span {font-size: 14px; color: #8a8a8a; font-family: Myriad Pro;}
+#block1 .block-text3 {float: left; width: 25%; }
+#block1 .block-text3 img {padding: 50px 0px 55px 104px}
+#block1 .block-text4 p {font-weight: bold;	color: #454545; font-size: 14px; font-family: Myriad Pro; padding: 0px 53px 20px 94px}
+#block1 .block-text4 span {font-size: 14px; color: #8a8a8a; font-family: Myriad Pro;}
+#block1 .block-text4 {font-weight: bold;	float: left; width: 25%;}
+#block1 .block-text4 img {padding: 50px 0px 61px 100px}
+
+
+
+#block2 {background: #f1f1f1; height: 1000px;}
+#block2 .block2-text p {font-size: 16px; color: #454545; font-family: Myriad Pro; text-align: center; text-transform: uppercase; padding: 91px 0px 17px 0px }
+#block2 .block2-text span{display: block;	font-size: 20px; font-family: Myriad Pro; color: #878686; text-align: center; padding: 0px 0px 50px 0px }
+#block2 .block2-text img {padding: 0px 0px 66px 230px}
+#block2 .block2-text2 p {text-align: center; font-size: 14px; color: #8a8a8a;  font-family: Myriad Pro; padding: 0px 0px 40px 0px }
+#block2 .block3-text3 p {color: #fff; font-size: 12px; font-family: Myriad Pro; font-weight: bold; text-transform: uppercase; text-align: center; padding: 16px 0px 16px 0px;  }
+#block2 .block3-text3 {background: #47474d; width: 160px; border-radius: 5px; margin-left: 468px;}
+#block2 .block3-text4 p {color: #fff; font-size: 12px; font-family: Myriad Pro; font-weight: bold; margin-top: -47px;	 text-transform: uppercase; text-align: center; padding: 16px 0px 16px 0px;  }
+#block2 .block3-text4 {background: #82c6bf; width: 160px; border-radius: 5px; margin-left: 644px; }
+#block2 .block3-text4 div a p:hover {background: red;}
+ 
+
+#block3 {background: #2d2d30 ; height: 630px; }
+#block3 .block3-text p {font-size: 16px; font-family: Myriad Pro; color: #dadada; text-transform: uppercase; font-weight: bold; padding: 96px 0px 24px 0px; }
+#block3 .block3-text span {display: block; color: #a4a4a4; font-size: 20px; font-family: Myriad Pro; padding: 0px 0px 44px 0px; }
+#block3 .block3-text a {display: block;	 color: #a4a4a4; font-size: 14px; font-family:  Myriad Pro; margin-bottom: 40px}
+#block3 .Work p {text-transform: uppercase; border: 1px solid #a4a4a4; padding: 15px 23px 15px 42px; color: #a4a4a4;}
+#block3 .Work {width: 165px; float: left; }
+#block3 .Work p:hover {background: #2525e8;}
+ 
+
+
+#block3 .block-img1 {}
+#block3 .img1 img {float: left; display: block; padding: 0px 0px 0px 150px; margin-top: -283px}
+#block3 .img2 img {float: left; display: block;  margin-top: -283px; padding: 0px 0px 0px 464px;}
+#block3 .img3 img {float: left; display: block;   margin-top: -283px; padding: 0px 0px 0px 775px;}
+#block3 .img4 img {float: left; display: block;; padding: 0px 30px 0px 150px; margin-top: -55px;}
+#block3 .img5 img {float: left; display: block;padding: 0px 27px 0px 0px; margin-top: -55px;}
+#block3 .img6 img {float: left; display: block; margin-top: -55px;}
+
+
+#block4 {height: 807px; background: #f1f1f1; }
+#block4 .block-4-text p {text-align: center;padding: 91px 0px 17px 0px;	text-transform: uppercase; color: #454545; font-size: 16px; font-family: Myriad Pro; }
+#block4 .block-4-text span {text-align: center;	display: block; color: #878686; font-size: 20px; font-family: Myriad Pro; }
+#block4 .block4-img1 img  {padding: 0px 0px 0px 0px; display: block; margin-top: -59px;}
+#block4 .block4-img1 a {height: 162px;	background: url(../images/Shape-2.png) no-repeat 694px 0px; width: 535px; 	display: block;	padding: 19px 0px 13px 737px; color: #878686; font-family: Myriad Pro; font-size: 18px; margin-top: -82px;}
+#block4 .block4-img1 p {font-weight: bold;	padding: 84px 20px 0px 452px; color: #454545; font-size: 14px; font-family: Myriad Pro; text-transform: uppercase;}
+#block4 .block4-img1 span {padding: 0px 0px 0px 455px;	font-style: italic;	display: block; color: #878686; font-family: Myriad Pro; font-size: 16px; }
