@@ -14,7 +14,7 @@ header #top nav {margin-left: 415px; margin-top: -23px; }
 header #top nav ul {display: inline-block;}
 header #top nav ul li {display: inline-block; text-transform: uppercase;	font-size: 10px; font-family: Tahoma; color: #d5d5d5; margin-top: -10px; margin-left: 70px;}
 header #top nav ul li a:hover {color: red;}
-header #top nav ul li a {color: #d5d5d5;}
+header #top nav ul li a {color: #d5d5d5; font-size: 14px}
 
 /*Секция*/
 section {background: url(../images/Section.png) bottom right; height: 650px; background-size: cover; }
